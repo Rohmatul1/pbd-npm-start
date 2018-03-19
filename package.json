@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-me",
+  "version": "1.0.0",
+  "description": "Tugas ummah",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rohmatul Ummah",
+  "license": "ISC",
+  "dependencies": {}
+}
